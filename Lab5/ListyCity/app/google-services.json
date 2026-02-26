@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16028925602",
+    "project_id": "cs-360-lab5",
+    "storage_bucket": "cs-360-lab5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16028925602:android:941b4929a8dce510b8e1fb",
+        "android_client_info": {
+          "package_name": "com.example.lab5_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK3dKtQvhDrrBNp88YIxITgQvujfltnYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
